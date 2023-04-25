@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing and completed projects
 nav: true
 nav_order: 2
-display_categories: [web3]
+display_categories: [web3, gis]
 horizontal: false
 ---
 
