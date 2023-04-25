@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 27th June 1991
     - name: Languages
-      value: English, Samogitian (conversational)
+      value: English, <a href="https://en.wikipedia.org/wiki/Samogitian_language">Samogitian (conversational)</a>
 
 - title: Education
   type: time_table
@@ -27,29 +27,29 @@
   contents:
     - title: Lecturer
       institution: <a href="https://www.csulb.edu/">California State University Long Beach</a>
-      year: 2023 - present
+      year: March 2023 - present
       description:
         - GISC 606 - Applied remote sensing
         
     - title: DAO member
       institution: <a href="https://www.indexerdao.com/">IndexerDAO</a>
-      year: 2022 - present
+      year: September 2022 - present
       description:
         - Indexer community support and educational content creation
 
     - title: Product engineer II
       institution: <a href="https://esri.com/">Esri</a>
-      year: 2021 - present
+      year: October 2021 - present
       description:
         - ArcGIS Online software product release team
     
     - title: Tools and support engineer
       institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
-      year: 2021 - 2021
+      year: July 2021 - October 2021
 
     - title: Technical support engineer
       institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
-      year: 2021 - 2021
+      year: November 2020 - July 2021
 
 - title: Honors and Awards
   type: time_table
