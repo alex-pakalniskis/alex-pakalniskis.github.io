@@ -12,13 +12,13 @@
   type: time_table
   contents:
     - title: MA
-      institution: California State University Long Beach
+      institution: <a href="https://www.csulb.edu/">California State University Long Beach</a>
       year: 2018
       description:
         - Geography
         - <a href="https://search.proquest.com/openview/ffaee555994c5e1e6616aba6c65d4f0c/1?pq-origsite=gscholar&cbl=18750&diss=y">Detecting Phenology Markers for Discernment of Grass Species at High Spatial and Temporal Scales</a>
     - title: BS
-      institution: University of California, Los Angeles
+      institution: <a href="https://www.ucla.edu/">University of California, Los Angeles</a>
       year: 2014
       description:
         - Biochemistry
@@ -45,35 +45,34 @@
         - ArcGIS Online software product release team
     
     - title: Tools and support engineer
-      institution: SimplePractice
+      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
       year: 2021 - 2021
 
     - title: Technical support engineer
-      institution: SimplePractice
+      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
       year: 2021 - 2021
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - The Graph Community Grant for IndexerDAO's <a href="https://docs.indexerdao.com/">Indexing 101</a>
+        - The Graph Community Grant for Graph Advocates Stickers
+        - The Graph Community Grant for <a href="https://alex-pakalniskis.github.io/RustOfficeHoursResources/">Rust Office Hours Resources</a>
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - The Graph Community Grant for <a href="https://www.youtube.com/playlist?list=PLHzllR6SWjI8XVqSJUxZMsnChLv9PgWOs">Code Along with Alex</a>
 
-- title: Academic Interests
+- title: Engineering Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: web3 infrastructure
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Blockchain indexing with <a href="https://thegraph.com/en/">The Graph</a> protocol
+    - title: Education
       items:
-        - Description 1.
-        - Description 2.
+        - Applied remote sensing with [Python](https://www.python.org/)
 
 - title: Other Interests
   type: list
