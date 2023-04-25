@@ -8,6 +8,47 @@
     - name: Languages
       value: English, <a href="https://en.wikipedia.org/wiki/Samogitian_language">Samogitian (conversational)</a>
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer
+      institution: <a href="https://www.csulb.edu/">California State University Long Beach</a>
+      year: 03/2023 - present
+      description:
+        - GISC 606 - Applied remote sensing
+        
+    - title: DAO member
+      institution: <a href="https://www.indexerdao.com/">IndexerDAO</a>
+      year: 09/2022 - present
+      description:
+        - Indexer community support and educational content creation
+
+    - title: Product engineer II
+      institution: <a href="https://esri.com/">Esri</a>
+      year: 10/2021 - present
+      description:
+        - ArcGIS Online software product release team
+    
+    - title: Tools and support engineer
+      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
+      year: 07/2021 - 10/2021
+
+    - title: Technical support engineer
+      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
+      year: 11/2020 - 07/2021
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - The Graph Community Grant for IndexerDAO's <a href="https://docs.indexerdao.com/">Indexing 101</a>
+        - The Graph Community Grant for Graph Advocates Stickers
+        - The Graph Community Grant for <a href="https://alex-pakalniskis.github.io/RustOfficeHoursResources/">Rust Office Hours Resources</a>
+    - year: 2022
+      items: 
+        - The Graph Community Grant for <a href="https://www.youtube.com/playlist?list=PLHzllR6SWjI8XVqSJUxZMsnChLv9PgWOs">Code Along with Alex</a>
+
 - title: Education
   type: time_table
   contents:
@@ -21,47 +62,6 @@
       institution: <a href="https://www.ucla.edu/">University of California, Los Angeles</a>
       year: 2014
       description:
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Lecturer
-      institution: <a href="https://www.csulb.edu/">California State University Long Beach</a>
-      year: March 2023 - present
-      description:
-        - GISC 606 - Applied remote sensing
-        
-    - title: DAO member
-      institution: <a href="https://www.indexerdao.com/">IndexerDAO</a>
-      year: September 2022 - present
-      description:
-        - Indexer community support and educational content creation
-
-    - title: Product engineer II
-      institution: <a href="https://esri.com/">Esri</a>
-      year: October 2021 - present
-      description:
-        - ArcGIS Online software product release team
-    
-    - title: Tools and support engineer
-      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
-      year: July 2021 - October 2021
-
-    - title: Technical support engineer
-      institution: <a href="https://www.simplepractice.com/">SimplePractice</a>
-      year: November 2020 - July 2021
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - The Graph Community Grant for IndexerDAO's <a href="https://docs.indexerdao.com/">Indexing 101</a>
-        - The Graph Community Grant for Graph Advocates Stickers
-        - The Graph Community Grant for <a href="https://alex-pakalniskis.github.io/RustOfficeHoursResources/">Rust Office Hours Resources</a>
-    - year: 2022
-      items: 
-        - The Graph Community Grant for <a href="https://www.youtube.com/playlist?list=PLHzllR6SWjI8XVqSJUxZMsnChLv9PgWOs">Code Along with Alex</a>
 
 - title: Engineering Interests
   type: nested_list
