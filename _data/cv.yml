@@ -11,17 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: MA
+    - title: MA in Geography
       institution: <a href="https://www.csulb.edu/">California State University Long Beach</a>
       year: 2018
       description:
-        - Geography
-        - <a href="https://search.proquest.com/openview/ffaee555994c5e1e6616aba6c65d4f0c/1?pq-origsite=gscholar&cbl=18750&diss=y">Detecting Phenology Markers for Discernment of Grass Species at High Spatial and Temporal Scales</a>
-    - title: BS
+        - Thesis: <a href="https://search.proquest.com/openview/ffaee555994c5e1e6616aba6c65d4f0c/1?pq-origsite=gscholar&cbl=18750&diss=y">Detecting Phenology Markers for Discernment of Grass Species at High Spatial and Temporal Scales</a>
+    - title: BS in Biochemistry
       institution: <a href="https://www.ucla.edu/">University of California, Los Angeles</a>
       year: 2014
       description:
-        - Biochemistry
 
 - title: Experience
   type: time_table
@@ -67,12 +65,14 @@
 - title: Engineering Interests
   type: nested_list
   contents:
-    - title: web3 infrastructure
+    - title: web3 infrastructure and tools
       items: 
-        - Blockchain indexing with <a href="https://thegraph.com/en/">The Graph</a> protocol
+        - Blockchain indexing on <a href="https://thegraph.com/en/">The Graph</a> protocol
+        - Indexer and subgraph developer tools
     - title: Education
       items:
-        - Applied remote sensing with [Python](https://www.python.org/)
+        - Open-source applied remote sensing
+        - Blockchain indexing on <a href="https://thegraph.com/en/">The Graph</a> protocol 
 
 - title: Other Interests
   type: list
