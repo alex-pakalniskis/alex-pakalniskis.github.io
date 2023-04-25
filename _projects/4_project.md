@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Rust Office Hours Resources
-description: Tutorials for The Graph community
-<!-- img: assets/img/12.jpg -->
-importance: 4
-category: null
+title: University teaching
+description: Helping train others
+img:
+importance: 1
+category: gis
 ---
 
-Developer tutorials covering how Rust programming is used in The Graph protocol. Prototypes can be found [here](https://alex-pakalniskis.github.io/RustOfficeHoursResources/).
+I'm a part-time lecturer at California State University Long Beach. Currently I'm teaching in the College of Professional and Continuing Education's Master of Science in GIS program.
+
+## News
+**Spring 2023 semester** - Teaching [GISC 606 - Applied remote sensing](https://alex-pakalniskis.github.io/gisc606-spring2023/)
