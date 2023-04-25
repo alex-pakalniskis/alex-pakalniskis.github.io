@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineer and educator at <a href='https://www.indexerdao.com/'>IndexerDAO</a>.
+subtitle: engineer and educator
 
 profile:
   align: right
