@@ -72,13 +72,13 @@
 - title: Engineering Interests
   type: nested_list
   contents:
-    - title: <a href="https://thegraph.com/en/">The Graph</a> protocol
+    - title: web3
       items: 
-        - Indexer tools and experience
+        - <a href="https://thegraph.com/en/">The Graph</a> protocol Indexer tools
     - title: Teaching
       items:
-        - Open-source applied remote sensing
-        - Getting started as an Indexer in <a href="https://thegraph.com/en/">The Graph</a> protocol 
+        - <a href="https://en.wikipedia.org/wiki/Remote_sensing#Applications_of_remote_sensing">Applied remote sensing</a> with <a href="https://en.wikipedia.org/wiki/Open-source_software">open-source software</a>
+        - Getting started as an <a href="https://thegraph.com/docs/en/network/indexing/">Indexer</a> in <a href="https://thegraph.com/en/">The Graph</a> protocol 
 
 - title: Other Interests
   type: list
