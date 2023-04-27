@@ -72,6 +72,10 @@
 - title: Engineering Interests
   type: nested_list
   contents:
+    - title: Business process automation
+      items: 
+        - <a href="https://en.wikipedia.org/wiki/DevOps">DevOps</a>
+        - <a href="https://en.wikipedia.org/wiki/CI/CD">CI/CD</a>
     - title: web3
       items: 
         - <a href="https://thegraph.com/en/">The Graph</a> protocol Indexer tools
