@@ -72,14 +72,13 @@
 - title: Engineering Interests
   type: nested_list
   contents:
-    - title: web3 infrastructure and tools
+    - title: <a href="https://thegraph.com/en/">The Graph</a> protocol
       items: 
-        - Blockchain indexing on <a href="https://thegraph.com/en/">The Graph</a> protocol
-        - Indexer and subgraph developer tools
-    - title: Education
+        - Indexer tools and experience
+    - title: Teaching
       items:
         - Open-source applied remote sensing
-        - Blockchain indexing on <a href="https://thegraph.com/en/">The Graph</a> protocol 
+        - Getting started as an Indexer in <a href="https://thegraph.com/en/">The Graph</a> protocol 
 
 - title: Other Interests
   type: list
