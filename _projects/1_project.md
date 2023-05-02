@@ -2,7 +2,7 @@
 layout: page
 title: IndexerDAO
 description: A DAO to support the Indexing community
-<!-- img: assets/img/12.jpg -->
+img: assets/img/INDEXERDAO-GR-ICON-BK-OUTLINE.png
 importance: 1
 category: web3
 ---
