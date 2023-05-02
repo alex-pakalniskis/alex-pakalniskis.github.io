@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: engineer and educator
+subtitle: Engineer and Educator
 
 profile:
   align: right
