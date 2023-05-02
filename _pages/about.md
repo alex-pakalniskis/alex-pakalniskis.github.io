@@ -20,7 +20,7 @@ Hey there! I'm an engineer who loves building cool tools, creating educational c
 
 I'm not one to be pushy, but I do want to make it as easy as possible for you to connect with me. Whether you're interested in discussing potential freelance opportunities or just want to chat, I'm excited to connect with you at your convenience. [Send me an email](mailto:alexpakalniskis3@gmail.com) and let's talk about how I can help your business succeed!
 
-## Available services
+**Available services**
 * Infrastructure consulting and development
 * Developer education and training 
 * Technical writing and content creation
