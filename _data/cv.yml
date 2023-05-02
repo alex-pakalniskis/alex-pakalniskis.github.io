@@ -7,6 +7,8 @@
       value: 27th June 1991
     - name: Languages
       value: English, <a href="https://en.wikipedia.org/wiki/Samogitian_language">Samogitian (conversational)</a>
+    - name: Pronouns
+      value: he/him/his
 
 - title: Experience
   type: time_table
