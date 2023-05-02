@@ -14,5 +14,4 @@ I’m currently teaching at [California State University Long Beach](https://www
 * Principles and concepts of remote sensing and digital image processing are presented and applied. Students extract information from satellite and other data sources, focusing on enhancement and extraction techniques within the visible and near-infrared portions of the electromagnetic spectrum.
 
 ## News
-**Spring 2023**
-* Teaching [GISC 606 - Applied Remote Sensing](https://alex-pakalniskis.github.io/gisc606-spring2023/) on Saturdays at CSULB (online)
+* **Spring 2023**: Teaching [GISC 606 - Applied Remote Sensing](https://alex-pakalniskis.github.io/gisc606-spring2023/) on Saturdays at CSULB (online)
