@@ -2,7 +2,7 @@
 layout: page
 title: Freelance community building
 description: Cultivating good vibes
-<!-- img: assets/img/12.jpg -->
+img: assets/img/graphadvocatesstickers1.png
 importance: 3
 category: web3
 ---
