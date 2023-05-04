@@ -24,6 +24,6 @@ I'm not one to be pushy, but I do want to make it as easy as possible for you to
 
 **Available services**
 * Developer education and training 
-* University lecturing
+* University lecturing and speaking
 * Technical writing and content creation
 * Project management
