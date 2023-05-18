@@ -18,7 +18,7 @@ I’m currently teaching at [California State University Long Beach](https://www
 
 ## News
 **Fall 2023**
-* Teaching [GISC 605 - Programming for Geospatial Professionals](https://alex-pakalniskis.github.io/gisc605/) on Wednesday nights at CSULB (online)
+* Teaching [GISC 605 - Programming for Geospatial Professionals](https://alexs-organization-29.gitbook.io/gisc-605/) on Wednesday nights at CSULB (online)
 
 **Spring 2023**
 * Teaching [GISC 606 - Applied Remote Sensing](https://alex-pakalniskis.github.io/gisc606-spring2023/) on Saturday mornings at CSULB (online)
